@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Website of a real estate agency [https://a-savinov.github.io/21_valid_markup/](https://a-savinov.github.io/21_valid_markup/)
 
 # Project Goals
 
